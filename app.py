@@ -5,8 +5,8 @@ import os
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
-API_KEY = "821e0ba25a6d4206850fdac3d7127c2d"
-ENDPOINT = "https://yewwwww.cognitiveservices.azure.com/"
+API_KEY = st.secrets['API_KEY']
+ENDPOINT = st.secrets["ENDPOINT"]
 
 def extract_text_from_document(document_path):
     document_analysis = DocumentAnalysisClient(endpoint=ENDPOINT, credential=AzureKeyCredential(API_KEY))
