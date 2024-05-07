@@ -1,2 +1,2 @@
-azure-form-recognizer
+azure-ai-formrecognizer
 streamlit
