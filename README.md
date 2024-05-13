@@ -13,4 +13,4 @@ This Streamlit app leverages Azure Form Recognizer to efficiently extract text f
 
 1. **Visit the App**: visit the app located [here](https://ocr-application.streamlit.app/).
 2. **Upload PDF**: Click on the 'Upload' button to select and upload the PDF document from which you want to extract text.
-3. **View and Download**: Once uploaded, the text will be extracted and displayed on the screen. You can also download the text by clicking the 'Download' button.
+3. **View**: Once uploaded, the text will be extracted and displayed on the screen. 
