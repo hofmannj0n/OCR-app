@@ -7,7 +7,6 @@ This Streamlit app leverages Azure Form Recognizer to efficiently extract text f
 - **PDF Upload**: Users can easily upload PDF files to the application.
 - **Text Extraction**: Utilizes Azure Form Recognizer to extract text with high accuracy.
 - **Display Extracted Text**: The extracted text is displayed on the user interface, allowing users to easily verify and copy the information.
-- **Download Option**: Users can download the extracted text as a text file.
 
 ## How to Use
 
