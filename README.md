@@ -1,5 +1,7 @@
 # PDF Text Extractor
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ocr-application.streamlit.app/)
+
 This Streamlit app leverages Azure Form Recognizer to efficiently extract text from PDF documents. It is designed to provide a user-friendly interface for uploading PDF files and viewing the extracted text. This tool is perfect for automating data entry tasks, archiving documents, and digitizing paper-based workflows.
 
 ## Features
